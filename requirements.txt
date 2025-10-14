@@ -1,0 +1,22 @@
+cat > requirements.txt << 'EOF'
+# Core Framework
+streamlit==1.29.0
+
+# NVIDIA NIM / OpenAI Compatible
+openai==1.6.1
+
+# Vector Database
+pymilvus==2.3.4
+
+# PDF Processing
+PyMuPDF==1.23.8
+arxiv==2.1.0
+
+# Data Processing
+numpy==1.26.2
+pandas==2.1.4
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+EOF
