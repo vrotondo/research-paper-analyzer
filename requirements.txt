@@ -1,4 +1,3 @@
-cat > requirements.txt << 'EOF'
 # Core Framework
 streamlit==1.29.0
 
