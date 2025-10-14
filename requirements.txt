@@ -1,21 +1,10 @@
-# Core Framework
-streamlit==1.29.0
-
-# NVIDIA NIM / OpenAI Compatible
+streamlit==1.38.0
 openai==1.6.1
-
-# Vector Database
-pymilvus==2.3.4
-
-# PDF Processing
-PyMuPDF==1.23.8
+pypdf==4.0.1
 arxiv==2.1.0
-
-# Data Processing
-numpy==1.26.2
-pandas==2.1.4
-
-# Utilities
+numpy==2.3.3
+pandas==2.3.3
 python-dotenv==1.0.0
 requests==2.31.0
-EOF
+grpcio==1.66.2
+pymilvus==2.4.0-1
