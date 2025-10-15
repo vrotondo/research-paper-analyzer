@@ -23,7 +23,7 @@ if [ -d "research-paper-analyzer" ]; then
     rm -rf research-paper-analyzer
 fi
 
-git clone https://github.com/YOUR_USERNAME/research-paper-analyzer.git
+git clone https://github.com/vrotondo/research-paper-analyzer.git
 cd research-paper-analyzer
 
 # Create virtual environment
