@@ -1,5 +1,5 @@
 streamlit==1.38.0
-openai==1.6.1
+openai>=1.50.0
 pypdf==4.0.1
 arxiv==2.1.0
 numpy==2.3.3
