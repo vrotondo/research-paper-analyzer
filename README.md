@@ -317,7 +317,13 @@ Questions or feedback? Reach out:
 
 ---
 
-## 🎨 Next: Add These Files
+## 🌐 Live Demo
+
+**Deployed App**: http://18.117.164.248:8501
+
+Try it with queries like:
+- "What are the latest advances in transformer architectures?"
+- "How do different papers approach few-shot learning?"
 
 ### `LICENSE` (Root directory)
 ```
