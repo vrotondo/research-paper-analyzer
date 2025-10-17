@@ -97,10 +97,7 @@ pip install -r requirements.txt
 
 4. **Set up environment variables**
 
-Create a `.env` file in the root directory:
-```env
-NVIDIA_API_KEY=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
-```
+Create a `.env` file in the root directory.
 
 5. **Run the application**
 ```bash
