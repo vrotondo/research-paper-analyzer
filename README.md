@@ -284,8 +284,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Vincent Rotondo**
-- GitHub: [@yourusername](https://github.com/vrotondo)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vincentrotondo/)
+- GitHub: [@vrotondo](https://github.com/vrotondo)
+- LinkedIn: [Vincent Rotondo](https://www.linkedin.com/in/vincentrotondo/)
 
 ---
 
@@ -301,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Questions or feedback? Reach out:
-- Email: your.email@example.com
-- Project Issues: [GitHub Issues](https://github.com/yourusername/research-paper-analyzer/issues)
+- Email: vrotondo@outlook.com 
+- Project Issues: [GitHub Issues](https://github.com/vrotondo/research-paper-analyzer/issues)
 
 ---
 
